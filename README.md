@@ -85,5 +85,6 @@ How to use this GitHub repository as a template for your submission, including h
   - Add a picture of myself
   - Add in paragraph of my future career wishes and how I may achieve it
   - Have it all peer assessed
+  - Add in another file - for CV - so homepage is more minimal
 
 <br>
