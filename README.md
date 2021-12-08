@@ -64,6 +64,9 @@ How to use this GitHub repository as a template for your submission, including h
 1/12/2021 - Added Website Link to my GitHub
 
 1/12/2021 - Added in Education Information
+
+8/12/2021 - Updated TODO list and spilt up essay and website
+
 <br>
 
 ## To Do List
@@ -79,5 +82,6 @@ How to use this GitHub repository as a template for your submission, including h
   - Add in Intrests Tab
   - Add a picture of myself
   - Add in paragraph of my future career wishes and how I may achieve it
+  - Have it all peer assessed
 
 <br>
