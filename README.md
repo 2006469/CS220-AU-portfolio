@@ -67,15 +67,17 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## To Do List
-- Start My Di-Reflections Essay
-- Finish My Introduction
-- Add in Social Media Links if needed - Linkedin
-- Add in Education tab
-- Add in Work Experience Tab
-- Add in information tab
-- Add in Intrests tab
-- Possibly add a picture of myself
-- Check essay over
-- Add V&R maps to essay
+- Essay
+  - Check Essay Over
+  - Add V&R Maps to Essay
+  - Have it peer assessed
+- Website
+  - Finish Introduction
+  - Add in Social Media Links if needed - Linkedin
+  - Add in Work Experience Tab
+  - Add in Information Tab
+  - Add in Intrests Tab
+  - Add a picture of myself
+  - Add in paragraph of my future career wishes and how I may achieve it
 
 <br>
