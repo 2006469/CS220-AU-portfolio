@@ -69,6 +69,8 @@ How to use this GitHub repository as a template for your submission, including h
 
 8/12/2021 - Updated TODO list and spilt up essay and website
 
+15/12/2021 - Filled in the work experience tab
+
 <br>
 
 ## To Do List
@@ -79,7 +81,6 @@ How to use this GitHub repository as a template for your submission, including h
 - Website
   - Finish Introduction
   - Add in Social Media Links if needed - Linkedin
-  - Add in Work Experience Tab
   - Add in Information Tab
   - Add in Intrests Tab
   - Add a picture of myself
