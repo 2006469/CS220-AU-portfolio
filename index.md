@@ -71,6 +71,7 @@ Everyman Cinema
 
 ## Social Media Links
 
+Linkdn: https://www.linkedin.com/feed/
 
 <br>
 
