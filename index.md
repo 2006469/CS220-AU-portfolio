@@ -89,5 +89,3 @@ ep20664 [@] essex [.] ac [.] uk
 
 My full CV is avaiable upon request - Please feel free to email
 
-remote_theme: pages-themes/minimal@v0.2.0
-
