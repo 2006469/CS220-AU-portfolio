@@ -68,7 +68,7 @@ Everyman Cinema
 <br>
 
 ## My Intrests
-
+I have a strong passion towards dance. I have been dancing since I was two and enjoy it throughly, it has helped me develop new skills and build my confidence by performing in front of lots of people. I am currently at University where I am studying Liberal Arts. Doing this I have developed more knowledge and writing skills to a much higher level, and also I have developed more confidence by meeting new people at Uni. I enjoy reading and have done for a long time, this has helped widen my knowledge of different topics and has also introduced me to lots of different words and opinions that I have taken on board and have brought into my own life. Once a month, I help at my local church at the Fellowship teas. I make tea and give out cake and treats to the elders that go. This gives me a chance to speak to lots of different people and is very interesting. I have a passion for fashion and my dream is to have my own fashion business in the future.
 <br>
 
 
