@@ -63,7 +63,8 @@ Everyman Cinema
 
 <br>
 
-## Information on Me
+## Fashion
+I have a dream of owning my own business in the future in thr fashion industry. I have wanted to work in fashion for a very long time, however due to it being such a difficult indistry to get in to I decided to do a degree to widen my knowledge and also give me more oportunties in the future if I am unable to work in fashion. I have social media pages where I post outfits and looks I have come up with, to begin to showcase what I am doing. After univeristy I am hoping to get an internship or job in the fashion industry whilst working on my own desgins and styles on the side. I will hope to gain knowledge in the industry so I can hope to develop my own business. I know that it is such a diffcult industry to work in so I have made plans for what I could do in the future if I am unable to work, however I am hoping that will not be the case.
 
 <br>
 
