@@ -73,6 +73,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 15/12/2021 - Added in social media link
 
+15/12/2021 - Started Intrests Tab
 <br>
 
 ## To Do List
@@ -83,7 +84,6 @@ How to use this GitHub repository as a template for your submission, including h
 - Website
   - Finish Introduction
   - Add in Information Tab
-  - Add in Intrests Tab
   - Add a picture of myself
   - Add in paragraph of my future career wishes and how I may achieve it
   - Have it all peer assessed
