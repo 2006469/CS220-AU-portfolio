@@ -71,6 +71,8 @@ How to use this GitHub repository as a template for your submission, including h
 
 15/12/2021 - Filled in the work experience tab
 
+15/12/2021 - Added in social media link
+
 <br>
 
 ## To Do List
@@ -80,7 +82,6 @@ How to use this GitHub repository as a template for your submission, including h
   - Have it peer assessed
 - Website
   - Finish Introduction
-  - Add in Social Media Links if needed - Linkedin
   - Add in Information Tab
   - Add in Intrests Tab
   - Add a picture of myself
