@@ -38,28 +38,24 @@ My studies at the univeristy will help me in the future with my passion for gett
 
 ## Work Experience
 ### Career History
-Next 
+Next - Oct 2019 to Oct 2020
 - I worked on the shop tills, assist customers, worked in the delivery stock room, sort customers parcels and bank tills within the Admin Cash office
 - I was able to develop my communication skills and work on building my confidence 
-- I worked from here October 2019 to October 2020
 
 
-Dance Chelmsford UK
+Dance Chelmsford UK - June 2017 to March 2021
 - I worked as a dance teacher, organising, choreographing dances and running the children’s classes
 - I was able to build my confidence whilst teacher and communicating with the parents
-- I worked here from June 2017 to March 2021
 
 
-Coop Food
+Coop Food - June 2019 to Sept 2019
 - I worked on the shop floor and tills, handled stock and cleaned the store
 - I learnt communcative skills and building confidence whilst dealing with issues on my own
-- I worked here from June 2019 to September 2019
 
 
-Everyman Cinema
+Everyman Cinema - Dec 2017 to Aug 2018
 - I worked as a host, greeting customers and bringing them food and drink
 - I learnt lots of skills such as teamwork, flexibility and communications
-- I worked here from December 2017 to August 2018
 
 <br>
 
