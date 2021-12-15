@@ -12,6 +12,9 @@ My studies at the univeristy will help me in the future with my passion for gett
 
 ### Moulsham High School
 
+### Further Education: Degree
+- Liberal Arts - University of Essex - In progress
+
 ### A-Level Grades:
 - Media Studies - C
 - Photography - C
