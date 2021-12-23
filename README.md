@@ -1,10 +1,10 @@
 # CS220 AU portfolio
 ## Overview
-This GitHub repository is my portfolio for the Navagating the Digital World assingment. 
+This GitHub repository is my portfolio for the 'Navagating the Digital World' assingment. 
 
 The 'index.md.' file is the onepager website which you can access with the link in the sidebar. That covers my personal and work CV, where you can find out more information about my personal and work self.
 
-My Essay is going to be uploaded on a PDF to faser.
+My essay is going to be uploaded on a PDF to faser.
 <br>
 
 ## Portfolio items
