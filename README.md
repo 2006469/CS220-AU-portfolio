@@ -43,41 +43,42 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-22/10/2021 - Started creating my homepage for my website
+23/12/2021 - Added Image Of Myself
 
-27/10/2021 - Added Items to my To Do list
+15/12/2021 - Started Future Career Wishes And How I May Achieve Tab
 
-3/11/2021 - Updated my introudction with more information
+15/12/2021 - Started Interests Tab
 
-3/11/2021 - Added my contact to the contact file
+15/12/2021 - Added In Social Media Link
 
-15/11/2021 - Edited the layout of my website
+15/12/2021 - Filled In The Work Experience Tab
 
-16/11/2021 - Worked on website template in preporation for completing
+8/12/2021 - Updated Todo List And Spilt Up Essay And Website
 
-16/11/2021 - CV contact added
+1/12/2021 - Added In Education Information
 
-16/11/2021 - Added to my TO DO list
+1/12/2021 - Added Website Link To My Github
 
-22/11/2021 - Wrote the whole essay - still needs work
+22/11/2021 - Added To My To Do List - Finishing Essay Off
 
-22/11/2021 - Added to my TO DO list - finishing essay off
+22/11/2021 - Wrote The Whole Essay - Still Needs Work
 
-1/12/2021 - Added Website Link to my GitHub
+16/11/2021 - Added To My To Do List
 
-1/12/2021 - Added in Education Information
+16/11/2021 – CV Contact Added
 
-8/12/2021 - Updated TODO list and spilt up essay and website
+16/11/2021 - Worked On Website Template In Preparation For Completing
 
-15/12/2021 - Filled in the work experience tab
+15/11/2021 - Edited The Layout Of My Website
 
-15/12/2021 - Added in social media link
+3/11/2021 - Added My Contact To The Contact File
 
-15/12/2021 - Started Intrests Tab
+3/11/2021 - Updated My Introduction With More Information
 
-15/12/2021 - Started futrure career wishes and how I may achieve tab
+27/10/2021 - Added Items To My To Do List
 
-23/12/2021 - Added Image of Myself
+22/10/2021 - Started Creating My Homepage For My Website
+
 <br>
 
 ## To Do List
