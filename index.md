@@ -2,20 +2,18 @@
 ## Eleanor Piller
   
 **Second Year Student studying Liberal Arts**
-
-Hello! My name is Eleanor Piller and I am a second year student studying Liberal Arts at the University of Essex. I am studying Liberal Arts to gain better general knowledge and have a broder, wide range further eduction. I currently run my own beauty business, where I specialse in Eyelash Lift and Tint and Brow Wax and Tint as a side hussle whilst I am studying at univeristy, this enables me to still study whilst making some money. However, In the future I would like to work in fashion and possibly have my own business. 
-
-My studies at the univeristy will help me in the future with my passion for getting into the fashion industry due to it expanding a lot of my skills. Such as my confidence, communcation, technology advancements and research skills to name a few. 
+Hello! My name is Eleanor Piller and I am a second year student studying Liberal Arts at the University of Essex. I am studying Liberal Arts to gain better general knowledge and have a broader, wide range of further education. I currently run my own beauty business, where I specialise in Eyelash Lift and Tint and Brow Wax and Tint as a side hustle whilst I am studying at university, this enables me to still study whilst making some money. However, In the future I would like to work in fashion and possibly have my own business.
+My studies at the university will help me in the future with my passion for getting into the fashion industry due to it expanding a lot of my skills. Such as my confidence, communication, technology advancements and research skills to name a few. 
 <br>
 
 ![Me](/assets/img/Portfolio.JPG)
 
 ## My Intrests
-I have a strong passion towards dance. I have been dancing since I was two and enjoy it throughly, it has helped me develop new skills and build my confidence by performing in front of lots of people. I am currently at University where I am studying Liberal Arts. Doing this I have developed more knowledge and writing skills to a much higher level, and also I have developed more confidence by meeting new people at Uni. I enjoy reading and have done for a long time, this has helped widen my knowledge of different topics and has also introduced me to lots of different words and opinions that I have taken on board and have brought into my own life. Once a month, I help at my local church at the Fellowship teas. I make tea and give out cake and treats to the elders that go. This gives me a chance to speak to lots of different people and is very interesting. I have a passion for fashion and my dream is to have my own fashion business in the future.
+I have a strong passion for dance. I have been dancing since I was two and enjoy it thoroughly, it has helped me develop new skills and build my confidence by performing in front of lots of people. I am currently at University where I am studying Liberal Arts. Doing this I have developed more knowledge and writing skills to a much higher level, and also I have developed more confidence by meeting new people at Uni. I enjoy reading and have done it for a long time, this has helped widen my knowledge of different topics and has also introduced me to lots of different words and opinions that I have taken on board and have brought into my own life. Once a month, I help at my local church at the Fellowship teas. I make tea and give out cake and treats to the elders that go. This gives me a chance to speak to lots of different people and is very interesting. I have a passion for fashion and my dream is to have my own fashion business in the future. 
 <br>
 
 ## Fashion
-I have a dream of owning my own business in the future in thr fashion industry. I have wanted to work in fashion for a very long time, however due to it being such a difficult indistry to get in to I decided to do a degree to widen my knowledge and also give me more oportunties in the future if I am unable to work in fashion. I have social media pages where I post outfits and looks I have come up with, to begin to showcase what I am doing. After univeristy I am hoping to get an internship or job in the fashion industry whilst working on my own desgins and styles on the side. I will hope to gain knowledge in the industry so I can hope to develop my own business. I know that it is such a diffcult industry to work in so I have made plans for what I could do in the future if I am unable to work, however I am hoping that will not be the case.
+I have a dream of owning my own business in the future in the fashion industry. I have wanted to work in fashion for a very long time, however, due to it being such a difficult industry to get into I decided to do a degree to widen my knowledge and also give me more opportunities in the future if I am unable to work in fashion. I have social media pages where I post outfits and looks I have come up with, to begin to showcase what I am doing. After university, I am hoping to get an internship or job in the fashion industry whilst working on my own designs and styles on the side. I will hope to gain knowledge in the industry so I can hope to develop my own business. I know that it is such a difficult industry to work in so I have made plans for what I could do in the future if I am unable to work, however, I am hoping that will not be the case. 
 <br>
 
 ## Education
@@ -60,7 +58,7 @@ Dance Chelmsford UK - June 2017 to March 2021
 
 Coop Food - June 2019 to Sept 2019
 - I worked on the shop floor and tills, handled stock and cleaned the store
-- I learnt communcative skills and building confidence whilst dealing with issues on my own
+- I learnt communicative skills and built confidence whilst dealing with issues on my own
 
 
 Everyman Cinema - Dec 2017 to Aug 2018
@@ -72,7 +70,7 @@ Everyman Cinema - Dec 2017 to Aug 2018
 
 ## Social Media Links
 
-Linkdn: https://www.linkedin.com/feed/
+Linkedin: https://www.linkedin.com/feed/
 
 <br>
 
@@ -85,5 +83,5 @@ ep20664 [@] essex [.] ac [.] uk
 
 
 
-My full CV is avaiable upon request - Please feel free to email
+My full CV is available upon request - Please feel free to email
 
