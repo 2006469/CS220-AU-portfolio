@@ -2,6 +2,7 @@
 ## Eleanor Piller
   
 **Second Year Student studying Liberal Arts**
+
 Hello! My name is Eleanor Piller and I am a second year student studying Liberal Arts at the University of Essex. I am studying Liberal Arts to gain better general knowledge and have a broader, wide range of further education. I currently run my own beauty business, where I specialise in Eyelash Lift and Tint and Brow Wax and Tint as a side hustle whilst I am studying at university, this enables me to still study whilst making some money. However, In the future I would like to work in fashion and possibly have my own business.
 My studies at the university will help me in the future with my passion for getting into the fashion industry due to it expanding a lot of my skills. Such as my confidence, communication, technology advancements and research skills to name a few. 
 <br>
