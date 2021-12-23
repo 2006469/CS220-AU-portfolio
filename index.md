@@ -8,6 +8,14 @@ Hello! My name is Eleanor Piller and I am a second year student studying Liberal
 My studies at the univeristy will help me in the future with my passion for getting into the fashion industry due to it expanding a lot of my skills. Such as my confidence, communcation, technology advancements and research skills to name a few. 
 <br>
 
+## My Intrests
+I have a strong passion towards dance. I have been dancing since I was two and enjoy it throughly, it has helped me develop new skills and build my confidence by performing in front of lots of people. I am currently at University where I am studying Liberal Arts. Doing this I have developed more knowledge and writing skills to a much higher level, and also I have developed more confidence by meeting new people at Uni. I enjoy reading and have done for a long time, this has helped widen my knowledge of different topics and has also introduced me to lots of different words and opinions that I have taken on board and have brought into my own life. Once a month, I help at my local church at the Fellowship teas. I make tea and give out cake and treats to the elders that go. This gives me a chance to speak to lots of different people and is very interesting. I have a passion for fashion and my dream is to have my own fashion business in the future.
+<br>
+
+## Fashion
+I have a dream of owning my own business in the future in thr fashion industry. I have wanted to work in fashion for a very long time, however due to it being such a difficult indistry to get in to I decided to do a degree to widen my knowledge and also give me more oportunties in the future if I am unable to work in fashion. I have social media pages where I post outfits and looks I have come up with, to begin to showcase what I am doing. After univeristy I am hoping to get an internship or job in the fashion industry whilst working on my own desgins and styles on the side. I will hope to gain knowledge in the industry so I can hope to develop my own business. I know that it is such a diffcult industry to work in so I have made plans for what I could do in the future if I am unable to work, however I am hoping that will not be the case.
+<br>
+
 ## Education
 
 ### Moulsham High School
@@ -57,15 +65,6 @@ Everyman Cinema - Dec 2017 to Aug 2018
 - I worked as a host, greeting customers and bringing them food and drink
 - I learnt lots of skills such as teamwork, flexibility and communications
 
-<br>
-
-## Fashion
-I have a dream of owning my own business in the future in thr fashion industry. I have wanted to work in fashion for a very long time, however due to it being such a difficult indistry to get in to I decided to do a degree to widen my knowledge and also give me more oportunties in the future if I am unable to work in fashion. I have social media pages where I post outfits and looks I have come up with, to begin to showcase what I am doing. After univeristy I am hoping to get an internship or job in the fashion industry whilst working on my own desgins and styles on the side. I will hope to gain knowledge in the industry so I can hope to develop my own business. I know that it is such a diffcult industry to work in so I have made plans for what I could do in the future if I am unable to work, however I am hoping that will not be the case.
-
-<br>
-
-## My Intrests
-I have a strong passion towards dance. I have been dancing since I was two and enjoy it throughly, it has helped me develop new skills and build my confidence by performing in front of lots of people. I am currently at University where I am studying Liberal Arts. Doing this I have developed more knowledge and writing skills to a much higher level, and also I have developed more confidence by meeting new people at Uni. I enjoy reading and have done for a long time, this has helped widen my knowledge of different topics and has also introduced me to lots of different words and opinions that I have taken on board and have brought into my own life. Once a month, I help at my local church at the Fellowship teas. I make tea and give out cake and treats to the elders that go. This gives me a chance to speak to lots of different people and is very interesting. I have a passion for fashion and my dream is to have my own fashion business in the future.
 <br>
 
 
