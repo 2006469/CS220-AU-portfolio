@@ -76,16 +76,18 @@ How to use this GitHub repository as a template for your submission, including h
 15/12/2021 - Started Intrests Tab
 
 15/12/2021 - Started futrure career wishes and how I may achieve tab
+
+23/12/2021 - Added Image of Myself
 <br>
 
 ## To Do List
+- June 2022 - Update Website/Portfolio
 - Essay
   - Check Essay Over
   - Add V&R Maps to Essay
   - Have it peer assessed
 - Website
   - Finish Introduction
-  - Add a picture of myself
   - Add in paragraph of my future career wishes and how I may achieve it
   - Have it all peer assessed
   - Add in another file - for CV - so homepage is more minimal
