@@ -6,6 +6,8 @@ Hello! My name is Eleanor Piller and I am a second year student studying Liberal
 My studies at the university will help me in the future with my passion for getting into the fashion industry due to it expanding a lot of my skills. Such as my confidence, communication, technology advancements and research skills to name a few. 
 <br>
 
+## Here Is A Photo Of Me!!
+
 ![Me](/assets/img/Portfolio.JPG)
 
 ## My Intrests
