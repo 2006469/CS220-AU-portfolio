@@ -29,7 +29,7 @@ Linkedin: https://www.linkedin.com/feed/
 
 ep20664 [@] essex [.] ac [.] uk
 
-
+My full CV is available upon request - Please feel free to email
 <br>
 
 ## Education
@@ -84,5 +84,5 @@ Everyman Cinema - Dec 2017 to Aug 2018
 <br>
 
 
-My full CV is available upon request - Please feel free to email
+
 
