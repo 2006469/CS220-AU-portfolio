@@ -14,7 +14,7 @@ I made sure that
 ### Website
 I used the `index.md` file 
 - [x] to support one of my own professional/institutional identities (or projects) and used the GitHub Pages function to turn this file into a website. I understand that as an alternative to GitHub Pages, I could have used another content management system e.g. WordPress to create my website and that I could have added additional pages if essential.
-- [ ] I provided a URL to my website in my repository's sidebar
+- [x] I provided a URL to my website in my repository's sidebar
 
 ### DI Reflection
 - [x] I wrote my reflection on digital identities focusing on developing my own digital identities 
@@ -24,7 +24,7 @@ I used the `index.md` file
 
 ### Self- and peer-assessment
 In the `assessement.md` file I
-- [ ] familiarised myself with the marking rubric
+- [x] familiarised myself with the marking rubric
 - [ ] filled in the self-assessment table
 - [ ] filled in the peer-assessment tables for which one student in my CS220 group provided feedback for
 - [ ] familiarised myself with the marking rubric and provided feedback for one students in my CS220 group
