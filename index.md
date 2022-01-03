@@ -19,6 +19,19 @@ I have a strong passion for dance. I have been dancing since I was two and enjoy
 I have a dream of owning my own business in the future in the fashion industry. I have wanted to work in fashion for a very long time, however, due to it being such a difficult industry to get into I decided to do a degree to widen my knowledge and also give me more opportunities in the future if I am unable to work in fashion. I have social media pages where I post outfits and looks I have come up with, to begin to showcase what I am doing. After university, I am hoping to get an internship or job in the fashion industry whilst working on my own designs and styles on the side. I will hope to gain knowledge in the industry so I can hope to develop my own business. I know that it is such a difficult industry to work in so I have made plans for what I could do in the future if I am unable to work, however, I am hoping that will not be the case. 
 <br>
 
+## Social Media Links
+
+Linkedin: https://www.linkedin.com/feed/
+
+<br>
+
+## Contact
+
+ep20664 [@] essex [.] ac [.] uk
+
+
+<br>
+
 ## Education
 
 ### Moulsham High School
@@ -69,21 +82,6 @@ Everyman Cinema - Dec 2017 to Aug 2018
 - I learnt lots of skills such as teamwork, flexibility and communications
 
 <br>
-
-
-## Social Media Links
-
-Linkedin: https://www.linkedin.com/feed/
-
-<br>
-
-## Contact
-
-ep20664 [@] essex [.] ac [.] uk
-
-
-<br>
-
 
 
 My full CV is available upon request - Please feel free to email
