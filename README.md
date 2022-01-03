@@ -9,6 +9,8 @@ My essay is going to be uploaded on a PDF to faser.
 
 
 ## Log
+03/01/2022 - Checked Essay and Website Over Ready for Peer Assess
+
 23/12/2021 - Spell Checked Website
 
 23/12/2021 - Added Image Of Myself
@@ -53,10 +55,8 @@ My essay is going to be uploaded on a PDF to faser.
 - June 2022 - Update Website/Portfolio
 
 - Essay
-  - Check Essay Over
-  - Add V&R Maps to Essay
   - Have it peer assessed
-  - 
+  
 - Website
   - Have it all peer assessed
 
