@@ -5,7 +5,6 @@ Marker: Krisztian Hofstadter
 GitHub repository URL: https://2006469.github.io/CS220-AU-portfolio/
 
 ## Checklist
-<!-- #todo : complete the checklist below by simply replacing the space with an 'x' as seen in the first checkpoint below. --> 
 
 ### General
 I made sure that
