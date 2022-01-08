@@ -21,8 +21,7 @@ I have a dream of owning my own business in the future in the fashion industry. 
 
 ## Social Media Links
 
-Linkedin: https://www.linkedin.com/feed/
-https://www.linkedin.com/in/eleanor-piller-595bb3224
+Linkedin: https://www.linkedin.com/in/eleanor-piller-595bb3224
 
 <br>
 
